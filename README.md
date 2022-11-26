@@ -32,7 +32,7 @@ Skills: Java SE / Java EE / Spring Boot / Thymeleaf / JSP / Servlet / JavaScript
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdtalalwasim)  
 
-![GitHub metrics](https://metrics.lecoq.io/mdtalalwasim)  
+<!--![GitHub metrics](https://metrics.lecoq.io/mdtalalwasim)-->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdtalalwasim)  
 
