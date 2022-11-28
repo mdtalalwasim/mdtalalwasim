@@ -32,13 +32,13 @@ Skills: Java SE / Java EE / Spring Boot / Thymeleaf / JSP / Servlet / JavaScript
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=mdtalalwasim)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtalalwasim)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtalalwasim)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtalalwasim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtalalwasim&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtalalwasim&show_icons=true&theme=marko)
+
+
 
 <hr>
 
