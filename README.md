@@ -39,11 +39,6 @@ Skills: Java SE / Java EE / Spring Boot / Thymeleaf / JSP / Servlet / JavaScript
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtalalwasim&show_icons=true&theme=marko)
 
 
-
-<hr>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdtalalwasim)  
-
 <hr>
 <!--![GitHub metrics](https://metrics.lecoq.io/mdtalalwasim)-->
 
