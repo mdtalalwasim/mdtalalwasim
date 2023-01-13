@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi there 👋, This is Md. Talal Wasim
 
 
-Skills: Java SE / Java EE / Spring Boot / Thymeleaf / JSP / Servlet / JavaScript / C# / Dot Net / MVC
+Skills: Spring Boot / REST API / Thymeleaf / Java SE / Java EE / JSP / Servlet / JavaScript / C# / Dot Net / MVC
 
 <hr>
 
@@ -32,14 +32,7 @@ Skills: Java SE / Java EE / Spring Boot / Thymeleaf / JSP / Servlet / JavaScript
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=mdtalalwasim)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtalalwasim)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtalalwasim&show_icons=true&theme=marko)
-
-
-<hr>
 <!--![GitHub metrics](https://metrics.lecoq.io/mdtalalwasim)-->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdtalalwasim)  
