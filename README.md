@@ -15,7 +15,7 @@ Skills: Spring Boot / REST API / Thymeleaf / Java SE / Java EE / JSP / Servlet /
 
 - 🎓 MSc, BSc in Computer Science and Engineering.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Java Spring Boot Framework.
+- 🌱 I’m currently working on Spring Boot Framework.
 - 📫 How to reach me: md.talalwasim@gmail.com
 - 💞️ Love to learn new technology.
 - 💬 Ask me about Web Development 
