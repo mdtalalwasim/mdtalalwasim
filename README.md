@@ -10,20 +10,21 @@ You can click the Preview link to take a look at your changes.
 
 
 # Skills: 
-- Spring Boot, Spring MVC, REST API, Thymeleaf 
-- Java SE,Java EE 
-- SP, Servlet
-- JavaScript, JQuery
-- C# / Dot Net / MVC
+- 👉 Spring Boot, Spring MVC, REST API, Thymeleaf 
+- 👉 Java SE,Java EE 
+- 👉 JSP, Servlet
+- 👉 JavaScript, JQuery
+- 👉C# / Dot Net / MVC
 
-<hr>
+# Learn more about me :
 
+- 💖 Love Java Technology. 
 - 🎓 MSc, BSc in Computer Science and Engineering.
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently working on Spring Boot Framework.
 - 📫 How to reach me: md.talalwasim@gmail.com
 - 💞️ Love to learn new technology.
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Development
 - 🔍 Open to join any time to your organization.
 <!-- - 👉 LinkedIn Profile: https://bd.linkedin.com/in/mdtalalwasim -->
 
