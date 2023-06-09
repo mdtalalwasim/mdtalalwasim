@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 👉 Java SE,Java EE 
 - 👉 JSP, Servlet
 - 👉 JavaScript, JQuery
-- 👉C# / Dot Net / MVC
+- 👉 C# / Dot Net / MVC
 
 # Learn more about me :
 
