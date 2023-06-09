@@ -9,7 +9,12 @@ You can click the Preview link to take a look at your changes.
 ### Hi there 👋, This is Md. Talal Wasim
 
 
-# Skills: Spring Boot / REST API / Thymeleaf / Java SE / Java EE / JSP / Servlet / JavaScript / JQuery / C# / Dot Net / MVC
+# Skills: 
+- Spring Boot, Spring MVC, REST API, Thymeleaf 
+- Java SE,Java EE 
+- SP, Servlet
+- JavaScript, JQuery
+- C# / Dot Net / MVC
 
 <hr>
 
