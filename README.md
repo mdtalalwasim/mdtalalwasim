@@ -45,3 +45,5 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Profile views](https://gpvc.arturio.dev/mdtalalwasim)
+
+![](https://komarev.com/ghpvc/?username=mdtalalwasim&color=green)
