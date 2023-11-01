@@ -6,7 +6,13 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Hi there 👋, This is Md. Talal Wasim
+### Hi there 👋 This is Md. Talal Wasim,
+A passionate <b>Full Stack Software Engineer(Java Spring Boot )</b> with a strong foundation in both front-end and back-end development. Skilled in creating efficient and scalable apps for exceptional user experiences. Skilled in Java, Spring Boot, and a variety of web technologies. Constantly seeking opportunities to innovate and enhance software solutions. Committed to creating technology that solves real-world problems and drives business success. Love to work in a team and always ready to lead a team.
+
+# Education: 
+- Jahangirnagar University (JU)<br>  Master of Science - <strong>MSc</strong>, Computer Science and Engineering.
+- American International University-Bangladesh (AIUB)<br>  Bachelor of Science - <strong>BSc</strong>, Computer Science and Engineering.
+
 
 
 # Skills: 
