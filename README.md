@@ -106,7 +106,7 @@ You can click the Preview link to take a look at your changes.
 - 👉 PHP / C# / Dot Net / MVC
 -->
 
-### Things you should know about my skill
+### Things you should know about me:
 - 🎓 <b>Education:</b> <i>MSc, BSc in Computer Science and Engineering.</i>
 - 💖 <b>Love:</b> Java Technology. 
 - 👨🏽‍💻 <b>Currently working on:</b> Java, Spring Boot, JPA, JDBC, MySql
