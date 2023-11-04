@@ -147,7 +147,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--![GitHub metrics](https://metrics.lecoq.io/mdtalalwasim)-->
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdtalalwasim)  
+<!--![GitHub streak stats](https://streak-stats.demolab.com/?user=mdtalalwasim) -->
 
 
 
