@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 <p>A passionate <b>Full Stack Software Engineer(Java Spring Boot )</b> with a strong foundation in both front-end and back-end development. Skilled in creating efficient and scalable apps for exceptional user experiences. Skilled in Java, Spring Boot, and a variety of web technologies. Constantly seeking opportunities to innovate and enhance software solutions. Committed to creating technology that solves real-world problems and drives business success. Love to work in a team and always ready to lead a team.</p>
 
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=mdtalalwasim&label=Profile%20views&color=0e75b6&style=flat" alt="mdtalalwasim" /> </p>
 
 # Education: 
 - Jahangirnagar University (JU)<br>  Master of Science - <strong>MSc</strong>, Computer Science and Engineering.
