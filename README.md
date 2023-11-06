@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 - 🎓 <b>Education:</b> <i>MSc, BSc in Computer Science and Engineering.</i>
 - 💖 <b>Love:</b> Java Technology. 
 - 👨🏽‍💻 <b>Currently working on:</b> Java, Spring Boot, JPA, JDBC, MySql
-- 🖍 <b>Frontend:</b> Bootstrap, Thymeleaf, HTML5, CSS3, JSP
+- 🖍 <b>Frontend:</b> Bootstrap, Thymeleaf, HTML5, CSS3, JSP, JavaScript, JQuery, Ajax
 - 🤔 <b>Exploring:</b> AWS, ReactJS, Docker, Microservices
 - 🖍 <b>Getting better at:</b> Java
 - 👀 <b>Interest:</b> Software Development.
