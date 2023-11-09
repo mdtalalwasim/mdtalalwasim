@@ -114,12 +114,11 @@ You can click the Preview link to take a look at your changes.
 - 🤔 <b>Exploring:</b> AWS, ReactJS, Docker, Microservices
 - 🖍 <b>Getting better at:</b> Java
 - 👀 <b>Interest:</b> Software Development.
-- 💞️ <b>Hobby:</b> Spending time with Coding, Problem Solving, Learn New Things and Technologies.
 - 💬 <b>Ask me about:</b> Java, Spring Boot, Deployment, MySql, Microservices
 - 📫 <b>How to reach me:</b> md.talalwasim@gmail.com
 - 💬 <strong>Other link:</strong> [Portfolio](https://mdtalalwasim.github.io/), [LinkedIn](https://www.linkedin.com/in/mdtalalwasim/) , [HackerRank](https://www.hackerrank.com/mdtalalwasim)
 
-
+<!-- 💞️ <b>Hobby:</b> Spending time with Coding, Problem Solving, Learn New Things and Technologies.-->
 
 
 <!--# Learn more about me :
