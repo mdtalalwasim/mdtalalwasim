@@ -110,12 +110,12 @@ You can click the Preview link to take a look at your changes.
 ### Things you should know about me:
 - 🎓 <b>Education:</b> <i>MSc, BSc in Computer Science and Engineering.</i>
 - 💖 <b>Love:</b> Java Technology. 
-- 👨🏽‍💻 <b>Currently working on:</b> Java, Spring Boot, JPA, JDBC, MySql
+- 👨🏽‍💻 <b>Currently working on:</b> Java, Spring Boot, WebFlux, Microservices, AWS, Docker, CI/CD, JPA, JDBC, MySql, Postgresql, MongoDB
 - 🖍 <b>Frontend:</b> Bootstrap, Thymeleaf, HTML5, CSS3, JSP, JavaScript, JQuery, Ajax
 - 🤔 <b>Exploring:</b> AWS, ReactJS, Docker, Microservices
 - 🖍 <b>Getting better at:</b> Java
 - 👀 <b>Interest:</b> Software Development.
-- 💬 <b>Ask me about:</b> Java, Spring Boot, Deployment, MySql, Microservices
+- 💬 <b>Ask me about:</b> Java, Spring Boot, Deployment, AWS, Docker, CI/CD, MySql, Postgresql, MongoDB, Microservices
 - 📫 <b>How to reach me:</b> md.talalwasim@gmail.com
 - 💬 <strong>Other link:</strong> [Portfolio](https://mdtalalwasim.github.io/), [LinkedIn](https://www.linkedin.com/in/mdtalalwasim/) , [HackerRank](https://www.hackerrank.com/mdtalalwasim)
 
