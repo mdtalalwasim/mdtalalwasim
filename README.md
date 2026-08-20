@@ -16,6 +16,12 @@
   <a href="mailto:md.talalwasim@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdtalalwasim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="https://github.com/mdtalalwasim?tab=followers"><img src="https://img.shields.io/github/followers/mdtalalwasim?label=Followers&style=social" alt="GitHub followers"/></a>
+  <!--<a href="https://github.com/mdtalalwasim?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmdtalalwasim&query=%24.public_repos&label=Public%20repos&style=social&logo=github" alt="Public repos"/></a>-->
+</p>
+
 ---
 
 ## About
